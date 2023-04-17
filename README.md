@@ -1,4 +1,4 @@
-# restful-django-crud-api
+# Restful Django CRUD-API
 This is a sample RESTful CRUD API built using Python Django framework. The API allows you to create, read, update, and delete data from a database. The API is built following RESTful principles and supports HTTP methods such as GET, POST, PUT, and DELETE.
 ## Getting Started
     1 Install Docker on your machine.
