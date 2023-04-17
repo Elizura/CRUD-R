@@ -11,5 +11,5 @@ This is a sample RESTful CRUD API built using Python Django framework. The API a
 Once the development server is running, you can access the API endpoints using a tool like curl or a web browser.
 ###  That's it! You now have a local instance of the API running in a Docker container. You can use a tool like curl or a web browser to interact with the API endpoints.
 
-##Contributing
-*Contributions are welcome! If you find a bug or want to suggest an improvement, please open an issue or submit a pull request.
+## Contributing
+Contributions are welcome! If you find a bug or want to suggest an improvement, please open an issue or submit a pull request.
